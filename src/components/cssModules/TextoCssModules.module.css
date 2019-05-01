@@ -1,0 +1,9 @@
+.textoStyle{
+    color: orange;
+    font-size: 14px;
+}
+
+/* :local(.container) {
+    margin: 40px;
+    border: 5px dashed pink;
+  } */
